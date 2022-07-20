@@ -4,9 +4,13 @@
 }
 
 .Menu .primary-text{
-  padding-top: 5%
+padding-top: 5%;
+font-weight:900;
+color:white;
+font-size:60px;
 }
 
 .Menu .secondary-text{
-  padding-bottom: 3%
+  padding-bottom: 3%;
+  color:white;
 }
