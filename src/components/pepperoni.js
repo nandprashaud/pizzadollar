@@ -1,5 +1,5 @@
 import React from 'react';
-import pepperoni from './images/plain.jpg';
+import pepperoni from './images/pepperoni.jpg';
 import './css/slice.css';
 
 function Pepperoni() {
